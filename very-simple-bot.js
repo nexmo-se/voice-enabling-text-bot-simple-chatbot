@@ -29,10 +29,6 @@ let router = express.Router();
 router.get('/', express.static('app'));
 app.use('/app',router);
 
-//-------
-
-const {Writable} = require('stream');
-
 //--------- VERY SIMPLE Bot Knowledge Base - Just to simulate the operation of a real text bot -----
 
 // French language - Very simple Bot KB
