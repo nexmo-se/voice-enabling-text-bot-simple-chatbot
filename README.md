@@ -67,7 +67,7 @@ In this case, when setting up the Voice API application, the parameter **`BOT_SE
 
 ### Testing voice integration with a sample text-only simple chatbot 
 
-To simulate the voice interaction with this very simple sample text-only chatbot, you may run the program from this repository 
+To simulate the voice interaction with this very simple sample text-only chatbot, you may run the program downloaded from this repository 
 ```bash
 node very-simple-bot.js
 ```
