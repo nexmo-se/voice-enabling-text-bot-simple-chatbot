@@ -110,15 +110,15 @@ addToBotKbEn (en02);
 
 const en03 = [
 "3",
-"How will be the weather tomorrow",
+"What will the weather be like tomorrow",
 "It will be raining tomorrow."
 ];
 addToBotKbEn (en03);
 
 const en04 = [
 "4",
-"When will I receive",
-"Your order will leave tomorrow."
+"When will I receive my package",
+"Your package will arrive the day after tomorrow."
 ];
 addToBotKbEn (en04);
 
