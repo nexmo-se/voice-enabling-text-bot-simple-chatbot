@@ -129,6 +129,19 @@ const en05 = [
 ];
 addToBotKbEn (en05);
 
+const en06 = [
+"6",
+"Tell me a story",
+"Tired of the Hare making fun of his plodding and pondering pace, a Tortoise finally has enough and challenges him to a race. The Hare agrees to the contest and promptly bolts off towards the finish line in the distance. So far ahead does the Rabbit find himself, that he decides he has enough time for a rest. There’s no way the Tortoise could possibly catch him now!"
+];
+addToBotKbEn (en06);
+
+const en07 = [
+"7",
+"Tell me a fable",
+"Upon crossing a river, a Fox gets his tail entangled in a bush and cannot move. While the trapped and in some dismay, a swarm of mosquitoes settle on the poor Fox and tuck into a hearty meal, unable to be swished away by the vulpine’s ensnared tail."];
+addToBotKbEn (en07);
+
 console.log ("botKbEn dictionary:", botKbEn); 
 
 //==========================================================
