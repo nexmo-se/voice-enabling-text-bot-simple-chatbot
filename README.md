@@ -9,7 +9,7 @@ See https://github.com/nexmo-se/voice-enabling-text-bot-application for a **Voic
 
 You may edit the source code file *very-simple-bot.js* to add additional sample requests/responses in the dictionaries and create new ones for additional languages.
 
-This simple chatbot does not do Natural Language Processing, nor provide AI capabilities. Its only usage here is to illustrate the ability to voice enable a text chatbot. The caller will need to say exactly a request sentence as listed in the source code.
+This simple chatbot does not do Natural Language Processing, nor provide other AI capabilities. Its only usage here is to illustrate the ability to voice enable a text chatbot. The caller will need to say exactly a request sentence as listed in the source code.
 
 ### Local deployment using ngrok
 
